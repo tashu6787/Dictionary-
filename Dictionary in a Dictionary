@@ -1,0 +1,4 @@
+students=  {1:{'name':'mark','age':20,'DOB':'1-1-2000'}, 
+            2:{'name':'john','age':22,'DOB':'2-10-2000'},
+            3:{'name':'joe','age':18,'DOB':'11-11-2000'}}
+print(students[2])
