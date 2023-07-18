@@ -1,0 +1,3 @@
+students= {'name':'mark','age':20,'DOB':'1-1-2000'}
+print(students.pop('age'))
+print(students)
